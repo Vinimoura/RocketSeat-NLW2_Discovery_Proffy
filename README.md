@@ -2,7 +2,7 @@
   <img src=https://github.com/Vinimoura/RocketSeat-NLW2_Discovery_Proffy/blob/master/nextlevelweek2.svg
        </p>
   
-  <h1 align="center">NEXT LEVEL WEEK Discovery</h1>
+  <h1 align="center">🚀NEXT LEVEL WEEK Discovery🚀</h1>
   
   <p align="center">
     <img src=https://github.com/Vinimoura/RocketSeat-NLW2_Discovery_Proffy/blob/master/Home.png
