@@ -10,10 +10,10 @@
   
   ## 📑 Índice:
   
-  -[Sobre a Plataforma](#-sobre-a-plataforma)
-  -[Tecnologias Utilizadas](#-tecnologias-utilizadas)
-  -[Design](#-design)
-  -[Licença](#-licença)
+  - [Sobre a Plataforma](#-sobre-a-plataforma)
+  - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+  - [Design](#-design)
+  - [Licença](#-licença)
   
   ## 📂 Sobre a Plataforma: 
   
